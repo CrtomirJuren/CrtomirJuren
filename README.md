@@ -4,10 +4,6 @@ Welcome to my ✨ _special_ ✨ repository.
 
 I am Črtomir Juren and i come from Slovenia 🇸🇮.
 
-*EDUCATION* 🎓
-- Bachelor's electrotechnic engineer. Study course mehatronics, electro motors + regulation theory
-- My thesis was about *Air heater ECU for diesel engine air intake at cold start*. CAN communication between PC and PIC, C language on PIC microcontroller, LabVIEW on PC side and PCB design for hardware. Thesis can be found on this [link](https://repozitorij.uni-lj.si/Dokument.php?id=30045&lang=slv)
-
 *JOB* 💼
 - *Test Engineer*: Automotive Industry 🏭. Half time in the office :office: and half time in the test laboratory :construction_worker:
 - *Laboratory*: Product validations, building and programming custom test setups. Taking care of the laboratory.
@@ -21,6 +17,11 @@ I am Črtomir Juren and i come from Slovenia 🇸🇮.
     - Python OOP designs in 👾 games 🔫
     - Python OOP data acquisition, HAL (hardware abstraction layer) and new book bought from [pythonforthelab](https://www.pythonforthelab.com/)
     - Python teaching 🎒
+
+*EDUCATION* 🎓
+- University of Ljubljana, [Faculty of Electrical Engineering](https://fe.uni-lj.si/en/). Mehatronics study course.
+- My thesis was about *Air heater ECU for diesel engine air intake at cold start*. CAN communication, C language PIC microcontroller, LabVIEW on PC and PCB design.
+- Thesis can be found on this [link](https://repozitorij.uni-lj.si/Dokument.php?id=30045&lang=slv)
 
 📫 How to reach me: crtomir.juren@gmail.com
 
